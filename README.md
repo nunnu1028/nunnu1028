@@ -25,4 +25,3 @@
 - React
 - HTML
 - CSS
-- 
