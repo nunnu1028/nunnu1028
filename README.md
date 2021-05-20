@@ -25,3 +25,5 @@
 - React
 - HTML
 - CSS
+- Networking
+- Math
